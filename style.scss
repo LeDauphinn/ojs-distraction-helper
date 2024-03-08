@@ -11,6 +11,7 @@ body {
    margin-top: 150px;
    margin-bottom: 200px;
    padding-bottom: 60px;
+   padding-top: 60px;
 
    .card-title {
       text-align: center;
@@ -113,5 +114,5 @@ body {
 }
 
 .clickable:hover {
-   transform: scale(1.05);
+   transform: scale(1.08);
 }
